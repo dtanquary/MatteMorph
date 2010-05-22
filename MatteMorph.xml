@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<themename>Matte Morph</themename>
+<themeversion>0.1</themeversion>
+<screenshot>screenshot</screenshot>
+<author>sn0wmis3r</author>
+<authorweblink>http://bit.ly/cctAhu</authorweblink>
+<phone>Nexus One</phone>
+<rom>CM 5.0.6</rom>
+<themedescription>Changes theme to matte look.</themedescription>
+
+<item>services.jar</item>
+<path>/system/framework/</path>
+<description>Sets top bar colors to white.</description>
+
+<item>DownloadProvider.apk</item>
+<path>/system/app/</path>
+<description>Adds white text to in progress downloads.</description>
+
+<item>Phone.apk</item>
+<path>/system/app/</path>
+<description>Adds white text to on going calls.</description>
+
+<item>Vending.apk</item>
+<path>/system/app/</path>
+<description>Adds matte look to market.</description>
+
+<item>Gmail.apk</item>
+<path>/system/app/</path>
+<description>Adds colorful Gmail Icon.</description>
+
+<item>Mms.apk</item>
+<path>/system/app/</path>
+<description>Adds colorful sms/mms Icon.</description>
+
+<item>Music.apk</item>
+<path>/system/app/</path>
+<description>Adds white text to now playing.</description>
+
+<item>framework-res.apk</item>
+<path>/system/framework/</path>
+<description>Adds matte artwork to system.</description>
